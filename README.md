@@ -58,3 +58,6 @@ Monitoramento eficiente da geração e destinação de resíduos
 Apoio à tomada de decisão ambiental em relação a quantidade de emissão de CADRIs, atendimento a legislação.
 
 Relatórios confiáveis para gestão e auditorias
+
+# 🖼️ Imagens
+- [Dashboard](https://github.com/gustavocastanha44-lgtm/Analise-Mensal-Residuos/issues/1)
